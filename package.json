@@ -1,0 +1,42 @@
+{
+  "_from": "github:mkjfeng01/react-native-icarousel",
+  "_id": "react-native-icarousel@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-BzgqbJGaOdH6EF2mgCrVYryOidw=",
+  "_location": "/react-native-icarousel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "mkjfeng01/react-native-icarousel",
+    "rawSpec": "mkjfeng01/react-native-icarousel",
+    "saveSpec": "github:mkjfeng01/react-native-icarousel",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:mkjfeng01/react-native-icarousel#42de59fd8d310f5796594d8c176b3cae8675d83e",
+  "_spec": "mkjfeng01/react-native-icarousel",
+  "_where": "/Users/zhangfeng/Desktop/Documents/React-Native/TestDemo",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mkjfeng01/react-native-icarousel/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/mkjfeng01/react-native-icarousel#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-icarousel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkjfeng01/react-native-icarousel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
+}
